@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Teddy
-- 👀 I’m pationate about coding
+- 👀 I’m passionate about coding
 - 🌱 And currently learning Game Development
 
